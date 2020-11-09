@@ -13,4 +13,11 @@ img {
     width: 400px;
     text-align: center;
     margin: 0 auto;
+    border-radius: 15px;
+}
+
+.card .avatar {
+    width: 100px;
+    border-radius: 50%;
+
 }
